@@ -79,10 +79,6 @@ hosts file and redirecting domains to localhost.
 
 ## `github_stats`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Odd3nS1gn2007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odd3nS1gn2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Odd3nS1gn2007&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
@@ -91,7 +87,9 @@ hosts file and redirecting domains to localhost.
 ## `contribution_activity`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Odd3nS1gn2007&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/Odd3nS1gn2007">
+    View my actual GitHub contribution graph
+  </a>
 </p>
 
 ## `achievements`
