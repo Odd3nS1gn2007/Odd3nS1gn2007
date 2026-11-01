@@ -1,4 +1,4 @@
-# `root@Odd3nS1gn:~#`
+# `root@Odd3nS1gn2007:~#`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Full+Stack+Developer;CTF+Player+%7C+Problem+Solver;Building.+Breaking.+Learning." alt="Typing SVG" />
