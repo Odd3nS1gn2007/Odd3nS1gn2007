@@ -84,13 +84,6 @@ hosts file and redirecting domains to localhost.
   <img src="https://streak-stats.demolab.com?user=Odd3nS1gn2007&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </p>
 
-## `contribution_activity`
-
-<p align="center">
-  <a href="https://github.com/Odd3nS1gn2007">
-    View my actual GitHub contribution graph
-  </a>
-</p>
 
 ## `achievements`
 
