@@ -14,22 +14,25 @@
 
 ## `whoami`
 
-``` bash
-$ whoami
-Sankara Naarayanan S
+<p align="center">
+  <samp>
+    <b>SANKARA NAARAYANAN S</b><br>
+    Cyber Security Student @ Chennai Institute of Technology<br><br>
+    I explore the intersection of cybersecurity and software development.<br>
+    I enjoy building practical applications, solving technical challenges,<br>
+    and understanding how systems work beneath the surface.
+  </samp>
+</p>
 
-$ cat about.txt
-Second-year CSE (Cyber Security) student
-at Chennai Institute of Technology.
+```bash
+┌──(sankar㉿Odd3nS1gn2007)-[~]
+└─$ cat /etc/identity
 
-Interested in cybersecurity, software development,
-and building practical technology solutions.
-
-$ cat current_focus.txt
-- Cybersecurity & Ethical Hacking
-- Full-Stack Development
-- Data Structures & Algorithms
-- CTF Challenges
+  NAME      : Sankara Naarayanan S
+  ROLE      : CSE (Cyber Security) Student
+  INTERESTS : Cybersecurity | Full-Stack Development
+  FOCUS     : Ethical Hacking | Problem Solving | CTFs
+   Learn > Build > Break > Improve
 ```
 
 ## `tech_stack`
