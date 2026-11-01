@@ -1,21 +1,14 @@
 # `root@Odd3nS1gn:~#`
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Full+Stack+Developer;CTF+Player+%7C+Problem+Solver;Building.+Breaking.+Learning." alt="Typing SVG" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Full+Stack+Developer;CTF+Player+%7C+Problem+Solver;Building.+Breaking.+Learning." alt="Typing SVG" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&logo=linux&logoColor=black" />`{=html}
-`<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9c?style=for-the-badge&logo=kalilinux&logoColor=black" />`{=html}
-`<img src="https://img.shields.io/badge/MODE-LEARNING-00ff9c?style=for-the-badge&logo=github&logoColor=black" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9c?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MODE-LEARNING-00ff9c?style=for-the-badge&logo=github&logoColor=black" />
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -41,16 +34,13 @@ $ cat current_focus.txt
 
 ## `tech_stack`
 
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,tailwind,fastapi,mysql,git,github,vscode&perline=8" />`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,tailwind,fastapi,mysql,git,github,vscode&perline=8" />
 </p>
-```
+
 ## `featured_projects`
 
-### 01. QueueCure --- Real-Time Clinic Queue Management
+### 01. QueueCure — Real-Time Clinic Queue Management
 
 A real-time clinic queue management platform featuring patient
 registration, token generation, department-wise queues and live
@@ -86,68 +76,48 @@ hosts file and redirecting domains to localhost.
 
 ## `github_stats`
 
-```{=html}
 <p align="center">
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Odd3nS1gn2007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odd3nS1gn2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />`{=html}
-```{=html}
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Odd3nS1gn2007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odd3nS1gn2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Odd3nS1gn2007&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=Odd3nS1gn2007&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </p>
-```
+
 ## `contribution_activity`
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Odd3nS1gn2007&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" />`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Odd3nS1gn2007&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
-```
+
 ## `achievements`
 
--   🏆 Secured **5th place --- Mirage CTF 2.0**
--   🎓 Cisco Networking Academy --- Python Essentials
--   🎓 Cisco Networking Academy --- CyberOps Associate
--   💻 Deloitte Australia Cyber Job Simulation --- Forage
+- 🏆 Secured **5th place — Mirage CTF 2.0**
+- 🎓 Cisco Networking Academy — Python Essentials
+- 🎓 Cisco Networking Academy — CyberOps Associate
+- 💻 Deloitte Australia Cyber Job Simulation — Forage
 
 ## `connect`
 
-```{=html}
 <p align="center">
-```
-`<a href="https://www.linkedin.com/in/sankara-naarayanan-s-a4aa40295">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black" />`{=html}
-`</a>`{=html}
-`<a href="mailto:ssankaranaarayanan2007@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=black" />`{=html}
-`</a>`{=html} `<a href="https://github.com/Odd3nS1gn2007">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow-00ff9c?style=for-the-badge&logo=github&logoColor=black" />`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://www.linkedin.com/in/sankara-naarayanan-s-a4aa40295">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:ssankaranaarayanan2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/Odd3nS1gn2007">
+    <img src="https://img.shields.io/badge/GitHub-Follow-00ff9c?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
 </p>
-```
 
 ------------------------------------------------------------------------
 
-```{=html}
 <p align="center">
-```
-`<i>`{=html}"The quieter you become, the more you are able to
-hear."`</i>`{=html}
-```{=html}
+  <i>"The quieter you become, the more you are able to hear."</i>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<code>`{=html}EOF // End of transmission.`</code>`{=html}
-```{=html}
+  <code>EOF // End of transmission.</code>
 </p>
-```
