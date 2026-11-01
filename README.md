@@ -1,137 +1,126 @@
-<div align="center">
-
 # `root@Odd3nS1gn2007:~#`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7A5&center=true&vCenter=true&width=700&lines=CYBER+SECURITY+STUDENT;FULL-STACK+DEVELOPER;CTF+PLAYER+%7C+PROBLEM+SOLVER;BUILDING.+BREAKING.+LEARNING." alt="Typing introduction" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Full+Stack+Developer;CTF+Player+%7C+Problem+Solver;Building.+Breaking.+Learning." alt="Typing SVG" />
+</p>
 
-<img src="https://img.shields.io/badge/CHENNAI_INSTITUTE_OF_TECHNOLOGY-111827?style=for-the-badge&labelColor=00F7A5&color=111827" alt="Chennai Institute of Technology" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-111827?style=for-the-badge&labelColor=00F7A5&color=111827" alt="Cybersecurity focus" />
-<img src="https://img.shields.io/badge/MODE-BUILD%20%7C%20LEARN-111827?style=for-the-badge&labelColor=00F7A5&color=111827" alt="Build and learn" />
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9c?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MODE-LEARNING-00ff9c?style=for-the-badge&logo=github&logoColor=black" />
+</p>
 
-</div>
-
----
+------------------------------------------------------------------------
 
 ## `whoami`
 
-```text
+<p align="center">
+  <samp>
+    <b>SANKARA NAARAYANAN S</b><br>
+    Cyber Security Student @ Chennai Institute of Technology<br><br>
+    I explore the intersection of cybersecurity and software development.<br>
+    I enjoy building practical applications, solving technical challenges,<br>
+    and understanding how systems work beneath the surface.
+  </samp>
+</p>
+
+```bash
 ┌──(sankar㉿Odd3nS1gn2007)-[~]
-└─$ whoami
+└─$ cat /etc/identity
 
-  Sankara Naarayanan S
-  Second-year CSE (Cyber Security) student
-  Chennai Institute of Technology
-
-└─$ cat interests.txt
-
-  Cybersecurity       Full-Stack Development
-  Ethical Hacking     CTF Challenges
-  Problem Solving     Building Practical Tools
+  NAME      : Sankara Naarayanan S
+  ROLE      : CSE (Cyber Security) Student
+  INTERESTS : Cybersecurity | Full-Stack Development
+  FOCUS     : Ethical Hacking | Problem Solving | CTFs
+   Learn > Build > Break > Improve
 ```
-
-I explore the intersection of cybersecurity and software development. I enjoy building practical applications, solving technical challenges, and understanding how systems work beneath the surface.
 
 ## `tech_stack`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,tailwind,fastapi,mysql,git,github,vscode&perline=9" alt="Technology stack" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,tailwind,fastapi,mysql,git,github,vscode&perline=8" />
+</p>
 
 ## `featured_projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01. QueueCure — Real-Time Clinic Queue Management
 
-### [01 / QueueCure](https://github.com/Odd3nS1gn2007/QueueCure)
+A real-time clinic queue management platform featuring patient
+registration, token generation, department-wise queues and live
+synchronization.
 
-**Real-Time Clinic Queue Management**
+**Stack:** React · Node.js · Express · MongoDB · Socket.io · Tailwind
+CSS
 
-A clinic queue platform with patient registration, token generation, department-wise queues and live receptionist/waiting-room synchronization.
+[View Repository](https://github.com/Odd3nS1gn2007/QueueCure)
 
-`React` `Node.js` `Express` `MongoDB` `Socket.io`
+### 02. Sustainable Green Grid Management System
 
-</td>
-<td width="50%" valign="top">
+An intelligent grid simulation platform combining electricity demand
+forecasting, renewable energy estimation and energy dispatch simulation.
 
-### 02 / Sustainable Green Grid
+**Stack:** Python · Scikit-learn · Pandas · NumPy · FastAPI · JavaScript
 
-**Machine-Learning-Based Grid Simulator**
+### 03. Password Manager Using CSV
 
-Forecasts electricity demand, estimates renewable energy availability and simulates energy dispatch across renewable sources, battery storage and fossil-fuel plants.
+A Python-based command-line password manager supporting password
+creation, retrieval, updates and deletion.
 
-`Python` `Scikit-learn` `Pandas` `FastAPI`
+**Stack:** Python · CSV
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 04. Website Blocker
 
-### 03 / Password Manager
+A Python utility that blocks selected websites by modifying the system
+hosts file and redirecting domains to localhost.
 
-**CSV-Based CLI Utility**
+**Stack:** Python
 
-A Python command-line tool to add, retrieve, update and delete stored password entries.
+------------------------------------------------------------------------
 
-`Python` `CSV`
+## `github_stats`
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Odd3nS1gn2007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odd3nS1gn2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
+</p>
 
-### 04 / Website Blocker
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Odd3nS1gn2007&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+</p>
 
-**Hosts-File-Based Website Blocking**
+## `contribution_activity`
 
-A Python utility that blocks selected websites by modifying the system hosts file and redirecting domains to localhost.
-
-`Python`
-
-</td>
-</tr>
-</table>
-
-## `github_analytics`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Odd3nS1gn2007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7A5&icon_color=00F7A5&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odd3nS1gn2007&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7A5&text_color=c9d1d9" alt="Most used languages" />
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Odd3nS1gn2007&hide_border=true&background=0d1117&ring=00F7A5&fire=00F7A5&currStreakLabel=00F7A5&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak" />
-
-</div>
-
-## `contribution_graph`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Odd3nS1gn2007/Odd3nS1gn2007/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Odd3nS1gn2007&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
 
 ## `achievements`
 
-- **5th place** — Mirage CTF 2.0
-- Cisco Networking Academy — Python Essentials
-- Cisco Networking Academy — CyberOps Associate
-- Deloitte Australia Cyber Job Simulation — Forage
+- 🏆 Secured **5th place — Mirage CTF 2.0**
+- 🎓 Cisco Networking Academy — Python Essentials
+- 🎓 Cisco Networking Academy — CyberOps Associate
+- 💻 Deloitte Australia Cyber Job Simulation — Forage
 
 ## `connect`
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sankara-naarayanan-s-a4aa40295">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:ssankaranaarayanan2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/Odd3nS1gn2007">
+    <img src="https://img.shields.io/badge/GitHub-Follow-00ff9c?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
-<a href="https://github.com/Odd3nS1gn2007"><img src="https://img.shields.io/badge/GitHub- profile-00F7A5?style=for-the-badge&logo=github&logoColor=111827&labelColor=00F7A5" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/sankara-naarayanan-s-a4aa40295"><img src="https://img.shields.io/badge/LinkedIn-connect-00F7A5?style=for-the-badge&logo=linkedin&logoColor=111827&labelColor=00F7A5" alt="LinkedIn" /></a>
-<a href="mailto:ssankaranaarayanan2007@gmail.com"><img src="https://img.shields.io/badge/Email-contact-00F7A5?style=for-the-badge&logo=gmail&logoColor=111827&labelColor=00F7A5" alt="Email" /></a>
+------------------------------------------------------------------------
 
-<br />
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Odd3nS1gn2007&style=for-the-badge&color=00F7A5&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br />
-
-<sub><code>ACCESS GRANTED // END OF TRANSMISSION</code></sub>
-
-</div>
+<p align="center">
+  <code>EOF // End of transmission.</code>
+</p>
